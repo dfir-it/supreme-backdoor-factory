@@ -1,0 +1,41 @@
+Indicator,Source,Description
+hxxp://svf.duckdns[.]org,Modified JXplorer 3.3.1.2 installer for Windows (7fce12d2cc785f7066f86314836c95ec),PowerShell download cradle URL
+hxxp://coppingfun[.]ml/blazebot,Modified JXplorer 3.3.1.2 installer for Windows (7fce12d2cc785f7066f86314836c95ec),sup-bot.jar download location
+hxxp://allesare.sourceforge[.]net/en-us/bver,supremebot.jar (2098d71cd1504c8be229f1f8feaa878b),Location of blazebot update file
+hxxp://allesare.sourceforge[.]net/en-us/m,Modified ffmpeg binary (c78ccfc45bfba703cce0fc0c75c0f6af),Location of sh script
+hxxp://ecc.freeddns[.]org/data.txt,Java FEN downloader (9d4aeb737179995a397d675f41e5f97f),Location of FEimea Portable App
+hxxp://san.strangled[.]net/stat,Java FEN downloader (9d4aeb737179995a397d675f41e5f97f),N/A
+hxxp://jessicacheshire.users.sourceforge[.]net,HTTP redirect from hxxp://ecc.freeddns[.]org,-
+limons.duckdns[.]org,FEimea RAT (65579b8ed47ca163fae2b3dffd8b4d5a),FEimea Portable App C2
+polarbear.freeddns[.]org,FEimea RAT (65579b8ed47ca163fae2b3dffd8b4d5a),FEimea Portable App C2
+hxxp://ecc.freeddns[.]org/a2s.txt,FEimea RAT (65579b8ed47ca163fae2b3dffd8b4d5a),Location of Java package loaded by FEimea RAT
+hxxp://utelemetrics.atwebpages[.]com/update.php?tag=,FEimea RAT (65579b8ed47ca163fae2b3dffd8b4d5a),FEimea RAT report URL
+hxxp://yzyaio.onlinewebshop[.]net/act/stat.php?info=SLADE,Modified JXplorer 3.3.1.2 installer for Linux (0489493aeb26b6772bf3653aedf75d2a),Location of sh script
+hxxp://eln.duckdns[.]org/se,Modified EasyModbus Java library (4d18388a9b351907be4a9f91785c9997),Location of sh script
+hxxp://enl.duckdns[.]org,Modified JXplorer 3.3.1.2 installer for Windows (6ee28018e7d31aef0b4fd6940dff1d0a),BITSAdmin/PowerShell download URL
+sanemarine.duckdns[.]org,Eimea Lite App (815db0de2c6a610797c6735511eaaaf9),Eimea Lite App C2
+lemonade.freeddns[.]org,Eimea Lite App (815db0de2c6a610797c6735511eaaaf9),Eimea Lite App C2
+hxxp://allesare.sourceforge[.]net/test/msg,Modified ELF binaries in Andrew Dunkins' repositories,Location of sh script
+7fce12d2cc785f7066f86314836c95ec,VirusTotal,Modified JXplorer 3.3.1.2 installer for Windows
+6ee28018e7d31aef0b4fd6940dff1d0a,GitHub (https://github.com/snacknroll11/streettalk_priv_bot),Modified JXplorer 3.3.1.2 installer for Windows
+9d4aeb737179995a397d675f41e5f97f,Modified JXplorer 3.3.1.2 installer for Windows (7fce12d2cc785f7066f86314836c95ec),Java FEN downloader
+533ac97f44b4aea1a35481d963cc9106,Modified JXplorer 3.3.1.2 installer for Windows (7fce12d2cc785f7066f86314836c95ec),Java JDL downloader
+d7c4a1d4f75045a2a1e324ae5114ea17,Modified JXplorer 3.3.1.2 installer for Windows (6ee28018e7d31aef0b4fd6940dff1d0a),Java JDL downloader
+65579b8ed47ca163fae2b3dffd8b4d5a,hxxp://ecc.freeddns[.]org/data.txt (via FEN downloader),FEimea Portable App - ver. 3.11.2  Mainline
+c78ccfc45bfba703cce0fc0c75c0f6af,GitHub (https://github.com/ballory/ffmpeg),Modified ffmpeg binary
+0489493aeb26b6772bf3653aedf75d2a,GitHub (https://github.com/serkovs/jxplorer),Modified JXplorer 3.3.1.2 installer for Linux
+4d18388a9b351907be4a9f91785c9997,GitHub (https://github.com/mansiiqkal/easymodbustcp-udp-java),Modified EasyModbus Java library
+815db0de2c6a610797c6735511eaaaf9,VirusTotal,Eimea Lite App
+dd3a38ee6b5b6340acd3bb8099f928a8,VirusTotal,Eimea Lite App
+ExplorerSync,Modified JXplorer 3.3.1.2 installer for Windows (7fce12d2cc785f7066f86314836c95ec),Scheduled Task name
+NotificationPush,Modified JXplorer 3.3.1.2 installer for Windows (7fce12d2cc785f7066f86314836c95ec),Scheduled Task name
+%TEMP%\..\Microsoft\ExplorerSync.db,Modified JXplorer 3.3.1.2 installer for Windows (7fce12d2cc785f7066f86314836c95ec),Location of dropped Java FEN downloader
+rpc-statd-sync,Modified JXplorer 3.3.1.2 installer for Linux (0489493aeb26b6772bf3653aedf75d2a),systemd service name
+/etc/systemd/system/multi-user.target.wants/rpc-statd-sync.service,Modified JXplorer 3.3.1.2 installer for Linux (0489493aeb26b6772bf3653aedf75d2a),Service file path
+/lib/systemd/system/rpc-statd-sync.service,Modified JXplorer 3.3.1.2 installer for Linux (0489493aeb26b6772bf3653aedf75d2a),Service file path
+$HOME/.local/share/bbauto,Modified EasyModbus Java library (4d18388a9b351907be4a9f91785c9997),Location of dropped Java FEN downloader
+$HOME/.config/autostart/none.desktop,Modified EasyModbus Java library (4d18388a9b351907be4a9f91785c9997),Desktop entry autostart location
+$HOME/Library/LaunchAgents/AutoUpdater.dat,Modified EasyModbus Java library (4d18388a9b351907be4a9f91785c9997),Location of dropped Java FEN downloader
+$HOME/Library/LaunchAgents/AutoUpdater.plist,Modified EasyModbus Java library (4d18388a9b351907be4a9f91785c9997),Launch Agent path
+$HOME/Library/LaunchAgents/SoftwareSync.plist,Modified EasyModbus Java library (4d18388a9b351907be4a9f91785c9997),Launch Agent path
+%TEMP%\BK.jar,Modified JXplorer 3.3.1.2 installer for Windows (7fce12d2cc785f7066f86314836c95ec),Location of dropped Java JDL downloader
